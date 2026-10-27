@@ -1,0 +1,16 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and dependency folders (not needed for this static site)
+*.log
+node_modules/
